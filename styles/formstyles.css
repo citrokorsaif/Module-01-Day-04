@@ -1,0 +1,20 @@
+label{
+    display: block;
+    margin: 20px;
+    text-align: left;
+    /* border-block-start-style: double; */
+    background-color: brown;
+
+}
+#reset{
+    background-color: brown;
+    color: white;
+}
+#submit{
+    background-color: brown;
+    color: white;
+}
+.legend{
+    background-color: brown;
+    color: white;
+}

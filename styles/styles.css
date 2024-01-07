@@ -1,0 +1,42 @@
+Nav > ul > li{
+    /* background-color:navajowhite; */
+    text-decoration: none;
+    text-align: center;
+    list-style: none;
+    display: inline;
+    /* margin: 20px; */
+    margin-right: 20px;
+
+t}
+Nav> ul> li> a{
+    text-decoration: none;
+}
+footer> p{
+    text-align: center;
+}
+article> header> h1{
+    text-align: center;
+    color:white;
+    background-color: Red;
+    border: 0.7cm;
+    border-style: double;
+}
+figcaption{
+    background-color: brown;
+    margin: 20px;
+    text-align: center;
+    color: white;
+}
+.para1{
+    text-align: justify;
+}
+footer> p{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+
+header{
+    margin: 10;
+}
+body
